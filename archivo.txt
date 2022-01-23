@@ -1,0 +1,9 @@
+Para hacer uso del servidor integrado de php tienes que hacer lo siguiente
+
+Paso #1: Ingresar a la carpeta contenedor del archivo
+Paso #2: Desde terminal ejecutar el siguiente comando
+
+php -S localhost:5000 01-hola-mundo.php
+
+el 5000 significa el puerto en que se ejecutara, puede cambiar
+y el 01-hola-mundo.php es el archivo que deseamos ejecutar, puede cambiar
